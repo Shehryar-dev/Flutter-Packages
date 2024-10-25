@@ -22,10 +22,9 @@ This project explores a variety of Flutter packages to enhance the UI and UX of 
 
 ---
 
-## 🎥 Demo Video
-
-Check out the demo video showcasing the app's functionality:  
-[![Demo Video](assets/ss/project.mp4)]
+## 🎥 Demo 
+Check out the demo Gif showcasing the app's functionality:  
+![Project Thumbnail](assets/ss/post.gif)
 
 ---
 
@@ -48,16 +47,10 @@ Check out the demo video showcasing the app's functionality:
 ---
 
 ## 🚀 Getting Started
-
-1. **Clone the repo**: `git clone https://github.com/yourusername/flutter-ui-exploration.git`
+Clone the repo: git clone https://github.com/Shehryar-dev/Flutter-Packages.git
+1. **Clone the repo**: `git clone https://github.com/Shehryar-dev/Flutter-Packages.git`
 2. **Install dependencies**: `flutter pub get`
 3. **Run the app**: `flutter run`
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
