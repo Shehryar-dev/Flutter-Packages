@@ -53,9 +53,11 @@ Clone the repo: git clone https://github.com/Shehryar-dev/Flutter-Packages.git
 3. **Run the app**: `flutter run`
 
 ---
-
 ## 💼 Connect
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shehryarkhandiv)
 - **GitHub**: [GitHub](https://github.com/Shehryar-dev)
+- **Twitter**: [X Account](https://x.com/Morphues_S)
+- **Portfolio**: [Portfolio](https://shehriyar-portfolio-v2.netlify.app/)
+
 
